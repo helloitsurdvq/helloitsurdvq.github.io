@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  website:
+    image: dvq-myweb
+    container_name: dvq1601-myweb
+    build: .
+    ports:
+      - "8080:80"
+    restart: unless-stopped
+    volumes:
+      - ./:/src 

@@ -1,0 +1,51 @@
+baseURL = 'https://helloitsurdvq.github.io/'
+languageCode = 'en-us'
+title = 'Viet Quang Dinh'
+theme = 'barks'
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        name = "Background"
+        url = "/background/"
+        weight = 2
+
+[params]
+    author = "Viet Quang Dinh"
+    description = "Global ICT BSc at HUST."
+    mainSections = ["posts"]
+
+    [params.social]
+        [params.social.email]
+            name = "E-Mail"
+            class = "fas fa-envelope"
+            url = "mailto:vietquang16012003@gmail.com"
+            weight = 1
+        [params.social.github]
+            name = "GitHub"
+            class = "fab fa-github"
+            url = "https://github.com/helloitsurdvq"
+            weight = 2
+        [params.social.linkedin]
+            name = "LinkedIn"
+            class = "fab fa-linkedin"
+            url = "https://linkedin.com/in/vietquang1601"
+            weight = 3
+        [params.social.facebook]
+            name = "Facebook"
+            class = "fab fa-facebook"
+            url = "https://facebook.com/helloitsurdvq"
+            weight = 4
+        [params.social.instagram]
+            name = "Instagram"
+            class = "fab fa-instagram"
+            url = "https://instagram.com/chilling.dvq"
+            weight = 5
+        [params.social.google_scholar]
+            name = "Google Scholar"
+            class = "ai ai-google-scholar-square"
+            url = "https://scholar.google.com/citations?user=<your_user_id>"
+            weight = 6

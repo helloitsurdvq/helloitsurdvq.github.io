@@ -1,0 +1,23 @@
+$title-font: {{ .Site.Params.typography.title_font | default "Bree Serif" }};
+$body-font: {{ .Site.Params.typography.body_font | default "Source Sans Pro" }};
+
+// Light theme colors
+$background-color: {{ .Site.Params.colors.background_color | default "#fcfbf9" }};  
+$text-color: {{ .Site.Params.colors.text_color | default "#2d3748" }};  
+$link-color: {{ .Site.Params.colors.link_color | default "#4a90e2" }};  
+$name-blur-color: {{ .Site.Params.colors.name_blur_color | default "#718096" }};  
+
+// Dark theme colors
+$dark-background-color: {{ .Site.Params.colors.dark_background_color | default "#1a202c" }};  
+$dark-text-color: {{ .Site.Params.colors.dark_text_color | default "#e2e8f0" }};  
+$dark-name-blur-color: {{ .Site.Params.colors.dark_name_blur_color | default "#718096" }}; 
+
+@import "_default.scss";
+@import "code.scss";
+@import "footer.scss";
+@import "header.scss";
+@import "navigation.scss";
+@import "landing_page.scss";
+@import "main.scss";
+@import "post.scss";
+@import "typography.scss";
