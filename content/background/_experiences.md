@@ -5,7 +5,7 @@ layout: post
 
 **Viettel Solutions**  
 Cloud Solutions Engineer  
-*Aug 2024 – Nov 2024*
+*08/2024 – 11/2024*
 - Fields: Monitoring, Logging, CI/CD, Kubenetes, Virtualization, Platform as a Service (PaaS).
 - Top 5 Ambassador of Viettel Digital Talent Program 2024.
 
