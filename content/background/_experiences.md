@@ -6,8 +6,9 @@ layout: post
 **Viettel Solutions**  
 Cloud Solutions Engineer  
 *08/2024 – 11/2024*
-- Fields: Monitoring, Logging, CI/CD, Kubenetes, Virtualization, Platform as a Service (PaaS).
-- Top 5 Ambassador of Viettel Digital Talent Program 2024.
+- Fields: core DevSecOps concepts including CI/CD, Containerization, Monitoring, Logging, Virtualization, Platform as a Service (PaaS).
+- Tools: CI/CD (Gitlab CI/CD, Github Actions), Docker, Kubernetes, IAC (Ansible, Vagrant, Helm), Monitoring (Grafana, Prometheus), Logging (Fluentd, Elasticsearch, Kibana), GitOps (ArgoCD).
+- Top 5 Ambassador of Viettel Digital Talent Program 2024 in the Cloud field.
 
 **Hanoi University of Science and Technology**  
 Teaching Assistant  
